@@ -20,7 +20,7 @@ If you need additional help, the following resources may be helpful:
 - Qt Forum: https://forum.qt.io
 - Qt Academy: https://qt.io/academy
 
-##Licensing Information
+## Licensing Information
 Copyright (C) 2026 Qt Group.
 SPDX-License-Identifier: LicenseRef-Qt-Commercial OR GPL-3.0-only
 Qt and respective logos are trademarks of The Qt Group.
